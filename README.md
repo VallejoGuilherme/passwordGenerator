@@ -1,2 +1,2 @@
 # passwordGenerator
-Make a simple password generator with symbols, letters and numbers
+I made a simple password generator with symbols, letters and numbers
